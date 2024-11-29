@@ -3,49 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/posts/1732785729840-my-eyes/</loc>
+    <loc>http://localhost:1313/posts/1732785729840-my-eyes/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/posts/1732785673170-have-a-faith/</loc>
+    <loc>http://localhost:1313/posts/1732785673170-have-a-faith/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-28T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/posts/1721801761937-second-article/</loc>
+    <loc>http://localhost:1313/posts/1721801761937-second-article/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/posts/1721801672871-new-article/</loc>
+    <loc>http://localhost:1313/posts/1721801672871-new-article/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/posts/1721803585867-third-article/</loc>
+    <loc>http://localhost:1313/posts/1721803585867-third-article/</loc>
     <lastmod>2024-07-24T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

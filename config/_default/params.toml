@@ -6,6 +6,7 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 defaultBackgroundImage = "background.svg"
+defaultFeaturedImage = "none"
 
 [header]
 layout = "fixed"
@@ -50,7 +51,7 @@ showTableOfContents = false
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = true
-showZenMode = "1"
+showZenMode = true
 heroStyle = "thumbAndBackground"
 
 [list]
