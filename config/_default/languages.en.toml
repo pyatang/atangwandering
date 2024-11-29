@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Atang's Blog"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "A tinker's record about IT stuff"
+logo = "oht.png"
+
+[author]
+name = "Atang"
+headline = "Time gives me a chance to chase the matter which it left me"
+links = []
+image = "mypic.jpg"
+bio = ""
