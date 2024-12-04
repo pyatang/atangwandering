@@ -9,7 +9,7 @@ defaultBackgroundImage = "background.svg"
 defaultFeaturedImage = "none"
 
 [header]
-layout = "fixed"
+layout = "fixed-fill-blur"
 
 [footer]
 showMenu = true
@@ -19,14 +19,15 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
-showRecent = false
+layout = "custom"
+showRecent = true
 showRecentItems = "5"
-showMoreLink = false
+showMoreLink = true
 showMoreLinkDest = "/posts"
 cardView = false
-cardViewScreenWidth = false
-layoutBackgroundBlur = false
+cardViewScreenWidth = ""
+layoutBackgroundBlur = ""
+homepageImage = "."
 
 [article]
 showDate = true
