@@ -3,7 +3,7 @@ title: "HOW MANY"
 date: 2024-07-24
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["number", "thing"]
 ---
 How many things need to do
 ## Huh?

@@ -76,12 +76,13 @@ excludedKinds = [ "taxonomy", "term" ]
 
 [taxonomy]
 showTermCount = true
-showHero = false
-showBreadcrumbs = false
+showHero = ""
+showBreadcrumbs = ""
 showViews = false
 showLikes = false
-showTableOfContents = false
-cardView = false
+showTableOfContents = ""
+cardView = ""
+heroStyle = ""
 
 [term]
 showHero = false

@@ -3,7 +3,7 @@ title: "Have a Faith"
 date: 2024-11-28
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["question", "use"]
 ---
 what do you want
 ### Basic usage of common questions

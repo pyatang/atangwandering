@@ -3,7 +3,7 @@ title: "EAT"
 date: 2024-11-28
 draft: false
 description: "a description"
-tags: ["example", "tag"]
+tags: ["eat"]
 ---
 
 # What to eat today
