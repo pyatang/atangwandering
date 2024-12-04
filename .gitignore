@@ -13,3 +13,5 @@ node_modules
 # Hugo
 public
 
+
+!public/index.json
