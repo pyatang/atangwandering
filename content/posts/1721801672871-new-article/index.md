@@ -1,9 +1,20 @@
 ---
-title: "Off Work"
+title: "A note from reading"
 date: 2024-07-24
 draft: false
-description: "a description"
-tags: ["work", "chore"]
+description: "MEANING AND METHOD"
+tags: ["LISTENING", "ENGLISH"]
 ---
- when to off work
-## Saturday or Sunday
+
+
+
+## how to divide syllables from a word
+
+what say you
+what do you think?
+hippopotamus pronounciation
+hi puh paa tuh muhs
+5 syllables
+individual
+in di vi dua l
+
