@@ -24,7 +24,7 @@ showRecent = true
 showRecentItems = "5"
 showMoreLink = true
 showMoreLinkDest = "/posts"
-cardView = false
+cardView = true
 cardViewScreenWidth = ""
 layoutBackgroundBlur = ""
 homepageImage = "."
@@ -52,7 +52,7 @@ showTableOfContents = false
 showTaxonomies = false
 showAuthorsBadges = false
 showWordCount = true
-showZenMode = true
+showZenMode = false
 heroStyle = "thumbAndBackground"
 
 [list]
